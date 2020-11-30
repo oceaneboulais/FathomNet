@@ -1,5 +1,5 @@
 # Current Status
-By Fall 2020, we will have the FathomNet database available for viewing.
+By Winter 2020-21, we plan to have the FathomNet database available for viewing.
 
 # FathomNet
 The two major goals of this project are to 
